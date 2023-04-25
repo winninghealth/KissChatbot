@@ -1,0 +1,1 @@
+window.config ={"askRole":"user","answerRole":"assistant","apiIP":"http://localhost:8004"}
